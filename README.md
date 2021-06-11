@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ren-id
+- 👋 Hi, I’m Ren.
 - 🇮🇩 I live in Indonesia.
 - 🌐 My primary social media is my blog. It is [here](https://ren.my.id).
 - 🍄 I am a vegetarian.
