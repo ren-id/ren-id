@@ -4,7 +4,7 @@
 - 🍄 I am a vegetarian.
 - 🏳️‍🌈 I am standing with pride flag.
 - 👀 I’m interested in web design.
-- 📫 Send me any message via email.
+- 📫 Send me any message via chat on my [blog](https://ren.my.id).
 
 <!---
 ren-id/ren-id is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
